@@ -1,0 +1,22 @@
+.primeirasListas{
+    color:darkcyan
+}
+
+.segundasListas{
+    color: cyan;
+}
+
+#titulo{
+    color: blanchedalmond
+}
+
+.paragrafo{
+    font: size 17px;
+    font-family: monospace;
+    line-height: 1;
+    border: width 15px;
+    border: solid;
+    border-color: red ;
+}
+
+    }
