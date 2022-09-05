@@ -1,12 +1,12 @@
-*{
+* {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-body{
+body {
     border: 1px solid black;
 }
 
-.card{
+.card {
     /*lardura*/
     width: 425px;
     /*altura*/
@@ -15,22 +15,25 @@ body{
     margin: 10px 0 10px 11px;
     padding: 10px;
     display: inline-table;
-    background-color:rgb(28, 55, 136);
+    background-color: rgb(28, 55, 136);
 
 }
-.card-titulo{
+
+.card-titulo {
     font-size: medium;
     margin: 0 0 10px 0;
     display: inline;
 
 }
-.card-imagem{
+
+.card-imagem {
     width: 30%;
     display: inline;
     float: left;
     margin-top: 58px;
 }
-.card-text{
+
+.card-text {
     display: inline;
     width: 65%;
     float: right;
